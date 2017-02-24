@@ -1,3 +1,36 @@
 <% provide(:title, "Contact") %>
-<h1>StaticPages#contact</h1>
-<p>Find me in app/views/static_pages/contact.html.erb</p>
+<div id="cv" class="instaFade">
+  <div class="mainDetails">
+    <div id="headshot" class="quickFade">
+      <%= image_tag("me-profile.png", alt: "my profile") %>
+    </div>
+    
+    <div id="name">
+      <h1 class="quickFade delayTwo">Kaiwen Zheng</h1>
+      <h4 class="quickFade delayThree">Computer Engineering Student at RIT</h2>
+    </div>
+    
+    <div id="contactDetails" class="quickFade delayFour">
+      <ul>
+      </ul>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+  <div id="mainArea" class="quickFade delayFive">
+    <section>
+      <article>
+        <div class="sectionTitle">
+          <h1>Contact</h1>
+        </div>
+        
+        <div class="sectionContent">
+          <li><a href="mailto:kxz6582@rit.edu" target="_top">Email: kxz6582@rit.edu</a></li>
+        	<li><a href="https://github.com/kaiwen2times">Github: github.com/kaiwen2times</a></li>
+        	<li><a href="https://www.linkedin.com/in/kaiwen-zheng-733127b2">Linkin</a></li>
+        </div>
+      </article>
+      <div class="clear"></div>
+    </section>
+  </div>
+</div>
