@@ -144,6 +144,12 @@ section:last-child {
   margin-bottom: -2px;
 }
 
+.gridWrapper {
+  display: grid;
+  grid-template-columns: 200px 200px;
+  grid-gap: 150px;
+}
+
 .subDetails {
   font-size: 1.0em;
   font-style: italic;
