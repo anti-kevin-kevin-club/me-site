@@ -12,6 +12,11 @@
     
     <div id="contactDetails" class="quickFade delayFour">
       <ul>
+        <li><a href="mailto:kxz6582@rit.edu" target="_top">Email: kxz6582@rit.edu</a></li>
+        <li><a href="https://github.com/kaiwen2times">Github: github.com/kaiwen2times</a></li>
+        <li><a href="https://www.linkedin.com/in/kaiwen-zheng-733127b2">LinkedIn: Kaiwen Zheng</a></li>
+        <li><a href="tel://1-585-733-4987">Phone: (585) 733-4987</a></li>
+        <li>Address: 4851 Triphammer Rd, Geneseo, NY</li>
       </ul>
     </div>
     <div class="clear"></div>
@@ -19,18 +24,21 @@
 
   <div id="mainArea" class="quickFade delayFive">
     <section>
-      <article>
-        <div class="sectionTitle">
-          <h1>Contact</h1>
-        </div>
-        
-        <div class="sectionContent">
-          <li><a href="mailto:kxz6582@rit.edu" target="_top">Email: kxz6582@rit.edu</a></li>
-        	<li><a href="https://github.com/kaiwen2times">Github: github.com/kaiwen2times</a></li>
-        	<li><a href="https://www.linkedin.com/in/kaiwen-zheng-733127b2">Linkedin</a></li>
-        </div>
-      </article>
-      <div class="clear"></div>
+      <div class="contactContainer">
+        <form action="/">
+
+          <label for="fname">First Name</label>
+          <input type="text" id="fname" name="firstname" placeholder="first name..">
+
+          <label for="lname">Last Name</label>
+          <input type="text" id="lname" name="lastname" placeholder="last name..">
+          <label for="subject">Subject</label>
+          <textarea id="subject" name="subject" placeholder="No spam please.." style="height:200px"></textarea>
+
+          <input type="submit" value="Submit">
+
+        </form>
+      </div>
     </section>
   </div>
 </div>
