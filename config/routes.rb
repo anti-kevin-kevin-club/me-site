@@ -3,7 +3,6 @@ Rails.application.routes.draw do
 	root 	"static_pages#resume"
   get 	"/resume", to: "static_pages#resume"
 	get 	"/contact", to: "static_pages#contact"
-  get   "/submit",  to: "contacts#new"
 
   resources "contacts", only: [:new, :create]
 
