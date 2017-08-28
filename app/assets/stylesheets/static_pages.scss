@@ -1,23 +1,27 @@
 /* site styles */
 html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video {
-border:0;
-font:inherit;
-font-size:100%;
-margin:0;
-padding:0;
-vertical-align:baseline;
+  border:0;
+  font:inherit;
+  font-size:100%;
+  margin:0;
+  padding:0;
+  vertical-align:baseline;
 }
 
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
-display:block;
+  display:block;
 }
 
-html, body {font-family: 'Lato', helvetica, arial, sans-serif; font-size: 18px; color: #222;}
+html, body {
+  font-family: 'Lato', helvetica, arial, sans-serif; font-size: 18px; color: #222;
+}
 
-.clear {clear: both;}
+.clear {
+  clear: both;
+}
 
 p {
-  font-size: 1em;
+  font-size: 1.1em;
   line-height: 1.4em;
   margin-bottom: 20px;
   color: #444;
@@ -151,7 +155,7 @@ section:last-child {
 }
 
 .subDetails {
-  font-size: 1.0em;
+  font-size: 0.9em;
   font-style: italic;
   margin-bottom: 3px;
 }
@@ -168,6 +172,15 @@ section:last-child {
 
 .keySkills ul li {
   margin-bottom: 3px;
+}
+
+.workList li {
+  font-size: 1.1em;
+  color: #444;
+}
+
+a.subLink {
+  color: #18BC9C;
 }
 
 @media all and (min-width: 602px) and (max-width: 800px) {
