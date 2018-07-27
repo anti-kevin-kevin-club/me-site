@@ -1,0 +1,50 @@
+{
+  "name": "webpack4-react-starter-kit",
+  "version": "1.0.0",
+  "description": "Minimal setup for React environment with Webpack and Babel",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "file-loader": "^1.1.11",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.8.3",
+    "sass-loader": "^6.0.7",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.16.2",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --mode development --config webpack.dev.config.js --open",
+    "test": "echo \"Error, no test specified\" && exit 1",
+    "dev": "webpack --mode development --config webpack.dev.config.js",
+    "server": "npm run dev && npm start",
+    "prod": "webpack --mode production --config webpack.prod.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiwen2times/webpack4-react-starter-kit.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "babel",
+    "node"
+  ],
+  "author": "kaiwenz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiwen2times/webpack4-react-starter-kit/issues"
+  },
+  "homepage": "https://github.com/kaiwen2times/webpack4-react-starter-kit#readme"
+}
