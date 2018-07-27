@@ -1,6 +1,6 @@
-# webpack4-react-starter-kit
+# me-site
 
-The purpose of this project is to avoid the hassle of setting up Webpack 4 to run React. The project prvoides a minimal setup configuration for React development with Webpack and Babel. As a bonus, the example used in project is a generic resume template. Feel free to modify the template to make it truely yours.
+A static resume page written in React and hosted [here](http://www.kaiwenz.xyz)
 
 ## Getting Started
 
@@ -16,14 +16,7 @@ There are three main scripts in ``` package.json ```
 
 ### Installing
 
-First checkout the repo and change directory into it
-
-```
-git clone https://github.com/kaiwen2times/webpack4-react-starter-kit.git
-cd webpack4-react-starter-kit
-```
-
-Then install the packages with
+First install the packages with
 
 ```
 nvm use
@@ -39,10 +32,6 @@ npm start
 ## Running the tests
 
 Don't have tests yet...
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/kaiwen2times/webpack4-react-starter-kit/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to the project.
 
 ## Authors
 
