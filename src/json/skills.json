@@ -3,11 +3,11 @@
   "skills": [
     {
       "title": "Programming Languages",
-      "lists": ["Java", "Javascript", "Pyton", "C", "Ruby", "Assembly"]
+      "lists": ["Java", "Javascript", "Python"]
     },
     {
       "title": "Web Development",
-      "lists": ["Node.js", "React.js", "Backbone.js", "Spring", "Spring boot"]
+      "lists": ["Node", "React", "Backbone", "Spring", "Spring boot"]
     },
     {
       "title": "Testing",

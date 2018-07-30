@@ -3,6 +3,20 @@
     "title": "Work Experience",
     "place": "Constant Contact",
     "subDetails": [
+      "Software Engineer",
+      "January 2018 - current"
+    ],
+    "points": [
+      "Rotate through different engineering teams and contribute as a team member.",
+      "Work with Backbone.js for developing front end features.",
+      "Use Spring and Spring-boot to implement back end feafures.",
+      "Write unit and integration tests.",
+      "Maintain and debug continuous integration pipelines."
+    ]
+  },
+  {
+    "place": "Constant Contact",
+    "subDetails": [
       "Software Engineer Intern",
       "May 2017 - August 2017"
     ],
@@ -11,7 +25,7 @@
       "Created endpoints for donation and payment services in Spring.",
       "Used BackboneJS to implement front-end features.",
       "Enhanced the functionality of gems used for supporting cucumber testing.",
-      "Helped to maintain and debug continuous integration pipeline.",
+      "Helped to maintain and debug continuous integration pipelines.",
       "Upgraded CentOS version on servers.",
       "Wrote unit and integration tests."
     ]
