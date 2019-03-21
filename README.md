@@ -1,6 +1,6 @@
 # me-site
 
-A static resume page written in React and hosted [here](http://www.kaiwenz.xyz)
+A static resume page written in React and hosted [here](http://www.kaiwenz.com)
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ Don't have tests yet...
 
 ## Authors
 
-* **Kaiwen Zheng** - *Initial work* - [My link](http://www.kaiwenz.xyz/)
+* **Kaiwen Zheng** - *Initial work* - [My link](http://www.kaiwenz.com/)
 
 ## License
 

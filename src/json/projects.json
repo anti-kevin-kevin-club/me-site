@@ -4,7 +4,7 @@
   [
     {
       "name": "Voice",
-      "link": "http://www.kaiwenz.xyz",
+      "link": "http://www.kaiwenz.com",
       "subDetails": "React, Node, MongoDB, Webpack, Speech-to-text",
       "description": "The goal of the project is to develop a real-time speech-to-text service that automates the process of live captioning in classNameroom for hard of hearing students. The tech stack employs react with node express as web services and a mongo database to store notes. Speech-to-text process is done by IBM Watson through its web API. The app enables users to choose a className to tune in and experience live captioning from the browser."
     },
