@@ -11,11 +11,11 @@
     },
     {
       "title": "Testing",
-      "lists": ["Jasmine", "Protactor", "Junit", "Rspec", "Cucumber"]
+      "lists": ["Jasmine", "Jest", "Protactor", "Junit", "Rspec", "Cucumber"]
     },
     {
       "title": "Dev Ops",
-      "lists": ["AWS", "Docker", "Jenkins", "Puppet", "OpenStack"]
+      "lists": ["AWS", "Docker", "Jenkins"]
     }
   ]
 }
