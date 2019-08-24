@@ -6,13 +6,13 @@
       "name": "Voice",
       "link": "http://www.kaiwenz.com",
       "subDetails": "React, Node, MongoDB, Webpack, Speech-to-text",
-      "description": "The goal of the project is to develop a real-time speech-to-text service that automates the process of live captioning in classroom for hard of hearing students. The tech stack employs react with node express as middleware and a mongo database to store notes. Speech-to-text process is done by IBM Watson through its API. The app enables users to choose a classroom to tune in and experience live captioning from the browser."
+      "description": "The goal of the project is to develop a real-time speech-to-text service that automates the process of live captioning in classroom for hard of hearing students. The tech stack employs react with node express as middleware and MongoDB to store notes. Speech-to-text process is done by IBM Watson through its API. The app enables users to choose a classroom to tune in and experience live captioning from the browser."
     },
     {
       "name": "Machine Learning Python",
       "link": "https://github.com/kaiwen2times/machine-learning-python",
       "subDetails": "Numpy, Tensorflow, matplotlib, NN, CNN",
-      "description": "The goal of the project is to explore machine learning using python and some of the popular machine learning libraries. The project takes inspiration from a machine leanring course taught using matlab, so the assigments are based on the course itself and translated into python. The results are collected and verfied against the matlab counterpart"
+      "description": "The goal of the project is to explore machine learning using python and some of the popular machine learning libraries. The project takes inspiration from a machine learning course taught using matlab, so the assignments are based on the course itself and translated into python. The results are collected and verified against the matlab counterpart"
     },
     {
       "name": "HealthNet",
