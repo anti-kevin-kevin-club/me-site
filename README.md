@@ -12,7 +12,7 @@ There are three main scripts in ``` package.json ```
 
 1. ``` npm run dev ``` generates assets and puts them in the ``` /dist ``` folder. Meant for development.
 2. ``` npm run prod ``` same as former but compresses and optimizes the output assets. Meant for production.
-3. ``` npm start ``` generates assets and host them at [localhost:8888](https://localhost:8888/). Watches file changes and auto-compile them.
+3. ``` npm start ``` generates assets and host them at [localhost:8888](http://localhost:8888/). Watches file changes and auto-compile them.
 
 ### Installing
 
